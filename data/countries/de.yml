@@ -1,0 +1,527 @@
+---
+- - Afghanistan
+  - AF
+- - Ägypten
+  - EG
+- - Åland
+  - AX
+- - Albanien
+  - AL
+- - Algerien
+  - DZ
+- - Amerikanisch-Samoa
+  - AS
+- - Amerikanische Jungferninseln
+  - VI
+- - Andorra
+  - AD
+- - Angola
+  - AO
+- - Anguilla
+  - AI
+- - Antarktis
+  - AQ
+- - Antigua und Barbuda
+  - AG
+- - Äquatorialguinea
+  - GQ
+- - Argentinien
+  - AR
+- - Armenien
+  - AM
+- - Aruba
+  - AW
+- - Ascension (verwaltet von St. Helena)
+  - AC
+- - Aserbaidschan
+  - AZ
+- - Äthiopien
+  - ET
+- - Australien
+  - AU
+- - Bahamas
+  - BS
+- - Bahrain
+  - BH
+- - Bangladesch
+  - BD
+- - Barbados
+  - BB
+- - Belarus (Weißrussland)
+  - BY
+- - Belgien
+  - BE
+- - Belize
+  - BZ
+- - Benin
+  - BJ
+- - Bermuda
+  - BM
+- - Bhutan
+  - BT
+- - Bolivien
+  - BO
+- - Bosnien und Herzegowina
+  - BA
+- - Botswana
+  - BW
+- - Bouvetinsel
+  - BV
+- - Brasilien
+  - BR
+- - Britische Jungferninseln
+  - VG
+- - Britisches Territorium im Indischen Ozean
+  - IO
+- - Brunei Darussalam
+  - BN
+- - Bulgarien
+  - BG
+- - Burkina Faso
+  - BF
+- - Burma (jetzt Myanmar)
+  - BU
+- - Burundi
+  - BI
+- - Ceuta, Melilla
+  - EA
+- - Chile
+  - CL
+- - China, Volksrepublik
+  - CN
+- - Clipperton
+  - CP
+- - Cookinseln
+  - CK
+- - Costa Rica
+  - CR
+- - Côte d'Ivoire (Elfenbeinküste)
+  - CI
+- - Dänemark
+  - DK
+- - Deutschland
+  - DE
+- - Diego Garcia
+  - DG
+- - Dominica
+  - DM
+- - Dominikanische Republik
+  - DO
+- - Dschibuti
+  - DJ
+- - Ecuador
+  - EC
+- - El Salvador
+  - SV
+- - Eritrea
+  - ER
+- - Estland
+  - EE
+- - Europäische Gemeinschaft
+  - CE
+- - Europäische Union
+  - EU
+- - Falklandinseln
+  - FK
+- - Färöer
+  - FO
+- - Fidschi
+  - FJ
+- - Finnland
+  - FI (SF)
+- - Frankreich (ohne Übersee-Départements)
+  - FX
+- - Frankreich
+  - FR
+- - Französisch-Guayana
+  - GF
+- - Französisch-Polynesien
+  - PF
+- - Französische Süd- und Antarktisgebiete
+  - TF
+- - Gabun
+  - GA
+- - Gambia
+  - GM
+- - Georgien
+  - GE
+- - Ghana
+  - GH
+- - Gibraltar
+  - GI
+- - Grenada
+  - GD
+- - Griechenland
+  - GR
+- - Grönland
+  - GL
+- - Guadeloupe
+  - GP
+- - Guam
+  - GU
+- - Guatemala
+  - GT
+- - Guernsey (Kanalinsel)
+  - GG
+- - Guinea
+  - GN
+- - Guinea-Bissau
+  - GW
+- - Guyana
+  - GY
+- - Haiti
+  - HT
+- - Heard und McDonaldinseln
+  - HM
+- - Honduras
+  - HN
+- - Hongkong
+  - HK
+- - Indien
+  - IN
+- - Indonesien
+  - ID
+- - Insel Man
+  - IM
+- - Irak
+  - IQ
+- - Iran, Islamische Republik
+  - IR
+- - Irland
+  - IE
+- - Island
+  - IS
+- - Israel
+  - IL
+- - Italien
+  - IT
+- - Jamaika
+  - JM
+- - Japan
+  - JP
+- - Jemen
+  - YE
+- - Jersey (Kanalinsel)
+  - JE
+- - Jordanien
+  - JO
+- - Jugoslawien (ehemalig)
+  - YU
+- - Kaimaninseln
+  - KY
+- - Kambodscha
+  - KH
+- - Kamerun
+  - CM
+- - Kanada
+  - CA
+- - Kanarische Inseln
+  - IC
+- - Kap Verde
+  - CV
+- - Kasachstan
+  - KZ
+- - Katar
+  - QA
+- - Kenia
+  - KE
+- - Kirgisistan
+  - KG
+- - Kiribati
+  - KI
+- - Kokosinseln
+  - CC
+- - Kolumbien
+  - CO
+- - Komoren
+  - KM
+- - Kongo, Demokratische Republik (ehem. Zaire)
+  - CD
+- - Korea, Demokratische Volksrepublik (Nordkorea)
+  - KP
+- - Korea, Republik (Südkorea)
+  - KR
+- - Kosovo
+  - KV
+- - Kroatien
+  - HR
+- - Kuba
+  - CU
+- - Kuwait
+  - KW
+- - Laos, Demokratische Volksrepublik
+  - LA
+- - Lesotho
+  - LS
+- - Lettland
+  - LV
+- - Libanon
+  - LB
+- - Liberia
+  - LR
+- - Libysch-Arabische Dschamahirija (Libyen)
+  - LY
+- - Liechtenstein
+  - LI
+- - Litauen
+  - LT
+- - Luxemburg
+  - LU
+- - Macao
+  - MO
+- - Madagaskar
+  - MG
+- - Malawi
+  - MW
+- - Malaysia
+  - MY
+- - Malediven
+  - MV
+- - Mali
+  - ML
+- - Malta
+  - MT
+- - Marokko
+  - MA
+- - Marshallinseln
+  - MH
+- - Martinique
+  - MQ
+- - Mauretanien
+  - MR
+- - Mauritius
+  - MU
+- - Mayotte
+  - YT
+- - Mazedonien, ehem. jugoslawische Republik
+  - MK
+- - Mexiko
+  - MX
+- - Mikronesien
+  - FM
+- - Moldawien (Republik Moldau)
+  - MD
+- - Monaco
+  - MC
+- - Mongolei
+  - MN
+- - Montenegro
+  - ME
+- - Montserrat
+  - MS
+- - Mosambik
+  - MZ
+- - Myanmar (Burma)
+  - MM
+- - Namibia
+  - NA
+- - Nauru
+  - NR
+- - Nepal
+  - NP
+- - Neukaledonien
+  - NC
+- - Neuseeland
+  - NZ
+- - Neutrale Zone (Saudi-Arabien und Irak bis 1993)
+  - NT
+- - Nicaragua
+  - NI
+- - Niederlande
+  - NL
+- - Niederländische Antillen
+  - AN
+- - Niger
+  - NE
+- - Nigeria
+  - NG
+- - Niue
+  - NU
+- - Nördliche Marianen
+  - MP
+- - Norfolkinsel
+  - NF
+- - Norwegen
+  - 'NO'
+- - Oman
+  - OM
+- - Österreich
+  - AT
+- - Osttimor (Timor-Leste)
+  - TL
+- - Pakistan
+  - PK
+- - Palästinensische Autonomiegebiete
+  - PS
+- - Palau
+  - PW
+- - Panama
+  - PA
+- - Papua-Neuguinea
+  - PG
+- - Paraguay
+  - PY
+- - Peru
+  - PE
+- - Philippinen
+  - PH
+- - Pitcairninseln
+  - PN
+- - Polen
+  - PL
+- - Portugal
+  - PT
+- - Puerto Rico
+  - PR
+- - Republik China (Taiwan)
+  - TW
+- - Republik Kongo
+  - CG
+- - Réunion
+  - RE
+- - Ruanda
+  - RW
+- - Rumänien
+  - RO
+- - Russische Föderation
+  - RU
+- - Saint-Barthélemy
+  - BL
+- - Saint-Martin (franz. Teil)
+  - MF
+- - Saint-Pierre und Miquelon
+  - PM
+- - Salomonen
+  - SB
+- - Sambia
+  - ZM
+- - Samoa
+  - WS
+- - San Marino
+  - SM
+- - São Tomé und Príncipe
+  - ST
+- - Saudi-Arabien
+  - SA
+- - Schweden
+  - SE
+- - Schweiz (Confoederatio Helvetica)
+  - CH
+- - Senegal
+  - SN
+- - Serbien und Montenegro (ehemalig)
+  - CS
+- - Serbien
+  - RS
+- - Seychellen
+  - SC
+- - Sierra Leone
+  - SL
+- - Simbabwe
+  - ZW
+- - Singapur
+  - SG
+- - Slowakei
+  - SK
+- - Slowenien
+  - SI
+- - Somalia
+  - SO
+- - Spanien
+  - ES
+- - Sri Lanka
+  - LK
+- - St. Helena
+  - SH
+- - St. Kitts und Nevis
+  - KN
+- - St. Lucia
+  - LC
+- - St. Vincent und die Grenadinen
+  - VC
+- - Südafrika
+  - ZA
+- - Sudan
+  - SD
+- - Südgeorgien und die Südlichen Sandwichinseln
+  - GS
+- - Suriname
+  - SR
+- - Svalbard und Jan Mayen
+  - SJ
+- - Swasiland
+  - SZ
+- - Syrien, Arabische Republik
+  - SY
+- - Tadschikistan
+  - TJ
+- - Tansania, Vereinigte Republik
+  - TZ
+- - Thailand
+  - TH
+- - Togo
+  - TG
+- - Tokelau
+  - TK
+- - Tonga
+  - TO
+- - Trinidad und Tobago
+  - TT
+- - Tristan da Cunha (verwaltet von St. Helena)
+  - TA
+- - Tschad
+  - TD
+- - Tschechische Republik
+  - CZ
+- - Tschechoslowakei (ehemalig)
+  - CS
+- - Tunesien
+  - TN
+- - Türkei
+  - TR
+- - Turkmenistan
+  - TM
+- - Turks- und Caicosinseln
+  - TC
+- - Tuvalu
+  - TV
+- - ! 'UdSSR (jetzt: Russische Föderation)'
+  - SU
+- - Uganda
+  - UG
+- - Ukraine
+  - UA
+- - Ungarn
+  - HU
+- - United States Minor Outlying Islands
+  - UM
+- - Uruguay
+  - UY
+- - Usbekistan
+  - UZ
+- - Vanuatu
+  - VU
+- - Vatikanstadt
+  - VA
+- - Venezuela
+  - VE
+- - Vereinigte Arabische Emirate
+  - AE
+- - Vereinigte Staaten von Amerika
+  - US
+- - Vereinigtes Königreich Großbritannien und Nordirland
+  - GB
+- - Vietnam
+  - VN
+- - Wallis und Futuna
+  - WF
+- - Weihnachtsinsel
+  - CX
+- - Westsahara
+  - EH
+- - Zaire (jetzt Demokratische Republik Kongo)
+  - ZR
+- - Zentralafrikanische Republik
+  - CF
+- - Zypern
+  - CY

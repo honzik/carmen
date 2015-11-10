@@ -1,0 +1,7 @@
+doc
+pkg
+tags
+tmp
+.DS_Store
+.bundle/*
+Gemfile.lock
